@@ -20,20 +20,7 @@ About me
 
 
 <div style="background: linear-gradient(125deg, #111, #222); border-radius: 30px; padding: 50px;">
-    <div style="background:#333; border-radius:10px; padding:30px;" align="center">
-        <h2 style="color:#DDD">Mentionable Projects:</h2><br />
-        <a style="margin-top: 5px;color:#52f700" target="_blank"
-            href="https://github.com/VironLab/SimpleItemLib">SimpleItemLib</a><br />
-        <a style="margin-top: 5px;color:#52f700" target="_blank"
-            href="https://github.com/VironLab/CloudNet-MongoDB">CloudNet MongoDB Module</a><br />
-    </div>
-    <div style="background:#333; border-radius:10px; padding:30px;  margin-top:30px;" align="center">
-        <h2 style="color:#DDD">Other Links</h2><br />
-        <a style="margin-top: 5px;color:#52f700" target="_blank"
-            href="https://vironlab.eu">VironLab Website</a><br />
-        <a style="margin-top: 5px;color:#52f700" target="_blank"
-            href="https://github.com/VironLab">VironLab GitHub</a><br />
-            </div>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=InfinityDevFlo&layout=compact&theme=dark" alt="language stats"></p>
     <div align="center" style="background:#333; border-radius:10px; padding:30px;  margin-top:30px;">
         <h2 style="color:#DDD">Githubs Language Stats:</h2>
         <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=InfinityDevFlo&layout=compact&theme=chartreuse-dark"
@@ -45,6 +32,13 @@ About me
                 src="https://github-readme-stats.vercel.app/api?username=InfinityDevFlo&show_icons=true&hide=issues,prs&theme=chartreuse-dark"
                 alt="github stats"></p>
     </div>
+    <div style="background:#333; border-radius:10px; padding:30px;  margin-top:30px;" align="center">
+        <h2 style="color:#DDD">VironLab</h2><br />
+        <a style="margin-top: 5px;color:#52f700" target="_blank"
+            href="https://vironlab.eu">VironLab Website</a><br />
+        <a style="margin-top: 5px;color:#52f700" target="_blank"
+            href="https://github.com/VironLab">VironLab GitHub</a><br />
+            </div>
     <div align="center" style="background:#333; border-radius:10px; padding:30px;  margin-top:30px;">
         <h2 style="color:#DDD">Projects:</h2>
         <div style="display:flexbox;">
