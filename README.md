@@ -7,8 +7,6 @@
 
 ---
 
-#### Welcome to my Profile :P
-
 About me
 
 - Languages: German, English
