@@ -20,7 +20,6 @@ About me
 
 
 <div style="background: linear-gradient(125deg, #111, #222); border-radius: 30px; padding: 50px;">
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=InfinityDevFlo&layout=compact&theme=dark" alt="language stats"></p>
     <div align="center" style="background:#333; border-radius:10px; padding:30px;  margin-top:30px;">
         <h2 style="color:#DDD">Githubs Language Stats:</h2>
         <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=InfinityDevFlo&layout=compact&theme=chartreuse-dark"
