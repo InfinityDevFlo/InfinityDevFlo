@@ -1,16 +1,59 @@
-### Hi there 👋
+<div style="background:#333; border-radius:10px; padding:30px;" align="center">
+    <p style="color:#DDD">
+    Hi there 👋, I am Florin
+    </p>
+    <a style="color:#00ff00" target="_blank" href="https://github.com/InfinityDevFlo"><img src="https://img.shields.io/github/followers/InfinityDevFlo?label=GitHub%20Followers&logo=GitHub&logoColor=%23ffffff&style=flat-square"></img></a>
+ </div>
 
-<!--
-**InfinityDevFlo/InfinityDevFlo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+#### Welcome to my Profile :P
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+About me
+
+- Languages: German, English
+- Programming Languages: Kotlin, Java
+- Age: 15
+- Job: Student
+
+---
+
+
+<div style="background: linear-gradient(125deg, #111, #222); border-radius: 30px; padding: 50px;">
+    <div style="background:#333; border-radius:10px; padding:30px;" align="center">
+        <h2 style="color:#DDD">Mentionable Projects:</h2><br />
+        <a style="margin-top: 5px;color:#52f700" target="_blank"
+            href="https://github.com/VironLab/SimpleItemLib">SimpleItemLib</a><br />
+        <a style="margin-top: 5px;color:#52f700" target="_blank"
+            href="https://github.com/VironLab/CloudNet-MongoDB">CloudNet MongoDB Module</a><br />
+    </div>
+    <div style="background:#333; border-radius:10px; padding:30px;  margin-top:30px;" align="center">
+        <h2 style="color:#DDD">Other Links</h2><br />
+        <a style="margin-top: 5px;color:#52f700" target="_blank"
+            href="https://vironlab.eu">VironLab Website</a><br />
+        <a style="margin-top: 5px;color:#52f700" target="_blank"
+            href="https://github.com/VironLab">VironLab GitHub</a><br />
+            </div>
+    <div align="center" style="background:#333; border-radius:10px; padding:30px;  margin-top:30px;">
+        <h2 style="color:#DDD">Githubs Language Stats:</h2>
+        <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=InfinityDevFlo&layout=compact&theme=chartreuse-dark"
+                alt="language stats"></p>
+    </div>
+    <div align="center" style="background:#333; border-radius:10px; padding:30px;  margin-top:30px;">
+        <h2 style="color:#DDD">My Profile Stats:</h2>
+        <p style="background:#333; border-radius:10px; padding:30px;" align="center">&nbsp;<img
+                src="https://github-readme-stats.vercel.app/api?username=InfinityDevFlo&show_icons=true&hide=issues,prs&theme=chartreuse-dark"
+                alt="github stats"></p>
+    </div>
+    <div align="center" style="background:#333; border-radius:10px; padding:30px;  margin-top:30px;">
+        <h2 style="color:#DDD">Projects:</h2>
+        <div style="display:flexbox;">
+            <img class="projectImage"
+                src="https://github-readme-stats.vercel.app/api/pin/?username=VironLab&repo=SimpleItemLib&theme=chartreuse-dark"
+                alt="simpleitemlib">
+            <img class="projectImage"
+                src="https://github-readme-stats.vercel.app/api/pin/?username=VironLab&repo=CloudNet-MongoDB&theme=chartreuse-dark"
+                alt="cloudnet mongodb">
+        </div>
+    </div>
+</div>
