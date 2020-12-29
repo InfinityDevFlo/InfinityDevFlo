@@ -19,11 +19,6 @@ About me
 
 <div style="background: linear-gradient(125deg, #111, #222); border-radius: 30px; padding: 50px;">
     <div align="center" style="background:#333; border-radius:10px; padding:30px;  margin-top:30px;">
-        <h2 style="color:#DDD">Githubs Language Stats:</h2>
-        <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=InfinityDevFlo&layout=compact&theme=chartreuse-dark"
-                alt="language stats"></p>
-    </div>
-    <div align="center" style="background:#333; border-radius:10px; padding:30px;  margin-top:30px;">
         <h2 style="color:#DDD">My Profile Stats:</h2>
         <p style="background:#333; border-radius:10px; padding:30px;" align="center">&nbsp;<img
                 src="https://github-readme-stats.vercel.app/api?username=InfinityDevFlo&show_icons=true&hide=issues,prs&theme=chartreuse-dark"
