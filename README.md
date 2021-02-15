@@ -35,6 +35,9 @@ About me
         <h2 style="color:#DDD">Projects:</h2>
         <div style="display:flexbox;">
             <img class="projectImage"
+                src="https://github-readme-stats.vercel.app/api/pin/?username=VironLab&repo=Vextension&theme=chartreuse-dark"
+                alt="Vextension">
+            <img class="projectImage"
                 src="https://github-readme-stats.vercel.app/api/pin/?username=VironLab&repo=SimpleItemLib&theme=chartreuse-dark"
                 alt="simpleitemlib">
             <img class="projectImage"
