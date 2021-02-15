@@ -38,9 +38,6 @@ About me
                 src="https://github-readme-stats.vercel.app/api/pin/?username=VironLab&repo=Vextension&theme=chartreuse-dark"
                 alt="Vextension">
             <img class="projectImage"
-                src="https://github-readme-stats.vercel.app/api/pin/?username=VironLab&repo=VebPanel&theme=chartreuse-dark"
-                alt="VebPanel">
-            <img class="projectImage"
                 src="https://github-readme-stats.vercel.app/api/pin/?username=VironLab&repo=SimpleItemLib&theme=chartreuse-dark"
                 alt="simpleitemlib">
             <img class="projectImage"
