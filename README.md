@@ -35,7 +35,11 @@ About me
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
     <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
     <a href="https://www.nginx.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a>
-    <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+    <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="nexus" width="40" height="40"/> </a>
+        <a href="https://de.sonatype.com/nexus/repository-oss" target="_blank"> <img src="https://www.sonatype.com/hubfs/2019%20Product%20logo/Product%20Logo%20SVGs/NexusRepo_Icon.svg" alt="python" width="40" height="40"/> </a>
+            <a href="https://redis.io/" target="_blank"> <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/redis-logo.png" alt="redis" width="40" height="40"/> </a>
+                <a href="https://www.jetbrains.com/idea/" target="_blank"> <img src="https://logonoid.com/images/intellij-idea-logo.png" alt="intelliJ" width="40" height="40"/></a>
+                    <a href="https://www.javascript.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" alt="JavaScript" width="40" height="40"/></a>
 </p>
 
 ---
