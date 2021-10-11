@@ -62,13 +62,6 @@ About me
         <a style="margin-top: 5px;color:#52f700" target="_blank"
             href="https://github.com/VironLab">VironLab GitHub</a><br />
             </div>
-    <div style="background:#333; border-radius:10px; padding:30px;  margin-top:30px;" align="center">
-        <h2 style="color:#DDD">NeverStopGaming</h2><br />
-        <a style="margin-top: 5px;color:#52f700" target="_blank"
-            href="https://neverstopgaming.net">NeverStopGaming Website</a><br />
-        <a style="margin-top: 5px;color:#52f700" target="_blank"
-            href="https://discord.gg/2truKPFeTs">NeverStopGaming Discord</a><br />
-            </div>
     <div align="center" style="background:#333; border-radius:10px; padding:30px;  margin-top:30px;">
         <h2 style="color:#DDD">Projects:</h2>
         <div style="display:flexbox;">
