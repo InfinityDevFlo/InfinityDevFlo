@@ -10,7 +10,7 @@
 About me
 
 - Languages: German, English
-- Programming Languages: Kotlin, Java, Python
+- Programming Languages: Kotlin, Java, Dart, JavaScript, Python
 - Favorite Database: MongoDB, Redis (I also use SQL)
 - Age: 16
 - Job: Student
@@ -21,6 +21,8 @@ About me
 
 <p align="left">
     <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a>
+    <a href="https://dart.dev/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png" alt="dart" width="40" height="40"/> </a>
+    <a href="https://flutter.dev/" target="_blank"> <img src="https://www.kindpng.com/picc/m/355-3557482_flutter-logo-png-transparent-png.png" alt="flutter" width="40" height="40"/> </a>
     <a href="https://ktor.io" target="_blank"> <img src="https://repository-images.githubusercontent.com/40136600/f3f5fd00-c59e-11e9-8284-cb297d193133" alt="kotlin" width="80" height="40"/> </a>
     <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
