@@ -11,7 +11,7 @@ About me
 
 - Languages: German, English
 - Programming Languages: Kotlin, Java, Dart, JavaScript, Python
-- Favorite Database: MongoDB, Redis (I also use SQL)
+- Favorite Database: MongoDB, Redis, PostreSQL
 - Age: 16
 - Job: Student
 
