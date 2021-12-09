@@ -53,29 +53,6 @@ About me
                 src="https://github-readme-stats.vercel.app/api?username=InfinityDevFlo&show_icons=true&hide=issues,prs&theme=chartreuse-dark"
                 alt="github stats"></p>
     </div>
-    <div style="background:#333; border-radius:10px; padding:30px;  margin-top:30px;" align="center">
-        <h2 style="color:#DDD">VironLab</h2><br />
-        <a style="margin-top: 5px;color:#52f700" target="_blank"
-            href="https://vironlab.eu">VironLab Website</a><br />
-        <a style="margin-top: 5px;color:#52f700" target="_blank"
-            href="https://discord.gg/J5FX39UGjP">VironLab Discord</a><br />
-        <a style="margin-top: 5px;color:#52f700" target="_blank"
-            href="https://github.com/VironLab">VironLab GitHub</a><br />
-            </div>
-    <div align="center" style="background:#333; border-radius:10px; padding:30px;  margin-top:30px;">
-        <h2 style="color:#DDD">Projects:</h2>
-        <div style="display:flexbox;">
-            <img class="projectImage"
-                src="https://github-readme-stats.vercel.app/api/pin/?username=VironLab&repo=Vextension&theme=chartreuse-dark"
-                alt="Vextension">
-            <img class="projectImage"
-                src="https://github-readme-stats.vercel.app/api/pin/?username=VironLab&repo=SimpleItemLib&theme=chartreuse-dark"
-                alt="simpleitemlib">
-            <img class="projectImage"
-                src="https://github-readme-stats.vercel.app/api/pin/?username=VironLab&repo=CloudNet-MongoDB&theme=chartreuse-dark"
-                alt="cloudnet mongodb">
-        </div>
-    </div>
 </div>
 
 ---
